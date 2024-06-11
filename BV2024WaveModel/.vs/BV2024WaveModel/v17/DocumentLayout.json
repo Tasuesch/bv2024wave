@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\BV2024WaveModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8C31EF-1743-4936-8A09-A5456B00F499}|BV2024WaveModel\\BV2024WaveModel.csproj|c:\\src\\bv2024wavemodel\\bv2024wavemodel\\shipmotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8C31EF-1743-4936-8A09-A5456B00F499}|BV2024WaveModel\\BV2024WaveModel.csproj|solutionrelative:bv2024wavemodel\\shipmotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaveIndexMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2022.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\WaveParameterCoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\PermissibleStackForceForTiersCalculatorInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\LoadCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipMotions.cs",
+              "DocumentMoniker": "C:\\src\\BV2024WaveModel\\BV2024WaveModel\\ShipMotions.cs",
+              "RelativeDocumentMoniker": "BV2024WaveModel\\ShipMotions.cs",
+              "ToolTip": "C:\\src\\BV2024WaveModel\\BV2024WaveModel\\ShipMotions.cs",
+              "RelativeToolTip": "BV2024WaveModel\\ShipMotions.cs",
+              "ViewState": "AQIAAMQCAAAAAAAAAAA+wLoBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:46.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadCase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\LoadCase.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\LoadCase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\LoadCase.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\LoadCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadCaseBV2022.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2022.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\LoadCaseBV2022.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2022.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\LoadCaseBV2022.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadCaseBV2023.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2023.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\LoadCaseBV2023.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\LoadCaseBV2023.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\LoadCaseBV2023.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissibleStackForceForTiersCalculatorInput.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PermissibleStackForceForTiersCalculatorInput.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\PermissibleStackForceForTiersCalculatorInput.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PermissibleStackForceForTiersCalculatorInput.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\PermissibleStackForceForTiersCalculatorInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaveParameterCoefficient.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\WaveParameterCoefficient.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\WaveParameterCoefficient.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\WaveParameterCoefficient.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\WaveParameterCoefficient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquivalentDesignWaveIndexMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaveIndexMapping.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\EquivalentDesignWaveIndexMapping.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaveIndexMapping.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\EquivalentDesignWaveIndexMapping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvykAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquivalentDesignWaves.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaves.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Lenovo\\Downloads\\EquivalentDesignWaves.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\EquivalentDesignWaves.cs",
+              "RelativeToolTip": "..\\..\\Users\\Lenovo\\Downloads\\EquivalentDesignWaves.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:18:15.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
